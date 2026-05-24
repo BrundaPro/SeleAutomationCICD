@@ -1,0 +1,9 @@
+SeleniumFrameworkDesign\Tests\StandAloneTestWithPOM.class
+SeleniumFrameworkDesign\data\DataReader$1.class
+SeleniumFrameworkDesign\Tests\ErrorValidation.class
+SeleniumFrameworkDesign\Tests\StandAloneTest.class
+SeleniumFrameworkDesign\TestComponents\BaseTest.class
+SeleniumFrameworkDesign\TestComponents\Listeners.class
+SeleniumFrameworkDesign\TestComponents\BaseTest$1.class
+SeleniumFrameworkDesign\data\DataReader.class
+SeleniumFrameworkDesign\TestComponents\Retry.class
