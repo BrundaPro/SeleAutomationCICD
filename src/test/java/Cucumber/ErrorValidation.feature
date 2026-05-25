@@ -9,4 +9,4 @@ Then "Incorrect email or password." message is displayed
  
 Examples:
 |userName|passWord|
-|brunda.111gr@gmail.com|Umy@999|
+|brunda.111gr@gmail.com|Udemy@999|
