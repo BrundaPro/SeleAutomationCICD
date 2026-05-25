@@ -24,6 +24,7 @@ public class StandAloneTest {
 		driver.get("https://rahulshettyacademy.com/client");
 		
 		//LandingPage landingpage=new LandingPage(driver);
+		//Now we are adding this comment to test the GitHub webhook
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.findElement(By.id("userEmail")).sendKeys("bhamchandu@gmail.com");
 		driver.findElement(By.id("userPassword")).sendKeys("Udemy@123");
