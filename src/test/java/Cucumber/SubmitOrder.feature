@@ -13,4 +13,4 @@ Then "THANK YOU FOR ORDER." message is displayed on ConfirmationPage
 
 Examples:
 |  userName            |passWord    | productName    |
-|bhamchandu@gmail.com |Udemy@123	|ADIDAS ORIGINAL |
+|bhamchandu@gmail.com |Udemy@123	|ADIDAS ORIGINAL|
